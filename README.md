@@ -1,4 +1,4 @@
-👋 Hi, I’m Alamin Pk. I am a Application Developer(Flutter)
+👋 Hi, I’m Alamin Pk. I am an Application Developer(Flutter)
 
 - 🏢 I'm currently working at Digital Crop (Last Update: November 3, 2024)
 - 👀 I’m interested in Compititive Programming and Robotics
