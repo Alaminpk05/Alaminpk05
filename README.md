@@ -1,6 +1,6 @@
 👋 Hi, I’m Alamin Pk. I am an Application Developer(Flutter)
 
-- 🏢 I'm currently working at Digital Crop
+- 🏢 I'm currently working at Alpha Net
 - 👀 I’m interested in Compititive Programming and Robotics
 - 🌱 I’m currently learning Node JS and Express JS
 - 💬 Ping me about Flutter
