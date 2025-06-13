@@ -1,4 +1,4 @@
-👋 Hi, I’m Alamin Pk. I am an Application Developer(Flutter)
+👋 Hi, I’m Alamin Pk. I am a Software Developer(Flutter)
 
 - 🏢 I'm currently working at Alpha Net
 - 👀 I’m interested in Compititive Programming and Robotics
